@@ -1,4 +1,4 @@
-# Typeroom
+# Typeroom - discontinued project sad
 
 
 A collaborative Test Editor app built on MERN and Redis -- Work in progress
